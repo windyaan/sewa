@@ -1,0 +1,8 @@
+D:\pabd\sewa\sewa\obj\Debug\sewa.csproj.AssemblyReference.cache
+D:\pabd\sewa\sewa\obj\Debug\sewa.csproj.SuggestedBindingRedirects.cache
+D:\pabd\sewa\sewa\obj\Debug\sewa.csproj.CoreCompileInputs.cache
+D:\pabd\sewa\sewa\bin\Debug\sewa.exe.config
+D:\pabd\sewa\sewa\bin\Debug\sewa.exe
+D:\pabd\sewa\sewa\bin\Debug\sewa.pdb
+D:\pabd\sewa\sewa\obj\Debug\sewa.exe
+D:\pabd\sewa\sewa\obj\Debug\sewa.pdb

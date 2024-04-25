@@ -1,0 +1,8 @@
+D:\pabd\sewa\sewakoneksi\sewakoneksi\bin\Debug\sewakoneksi.exe.config
+D:\pabd\sewa\sewakoneksi\sewakoneksi\bin\Debug\sewakoneksi.exe
+D:\pabd\sewa\sewakoneksi\sewakoneksi\bin\Debug\sewakoneksi.pdb
+D:\pabd\sewa\sewakoneksi\sewakoneksi\obj\Debug\sewakoneksi.csproj.AssemblyReference.cache
+D:\pabd\sewa\sewakoneksi\sewakoneksi\obj\Debug\sewakoneksi.csproj.SuggestedBindingRedirects.cache
+D:\pabd\sewa\sewakoneksi\sewakoneksi\obj\Debug\sewakoneksi.csproj.CoreCompileInputs.cache
+D:\pabd\sewa\sewakoneksi\sewakoneksi\obj\Debug\sewakoneksi.exe
+D:\pabd\sewa\sewakoneksi\sewakoneksi\obj\Debug\sewakoneksi.pdb

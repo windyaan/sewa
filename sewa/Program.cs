@@ -111,7 +111,7 @@ namespace insert_read
                                             case '3':
                                                 {
                                                     Console.Clear();
-                                                    Console.WriteLine("Input Data Kios\n");
+                                                    Console.WriteLine("Edit Data Kios\n");
                                                     Console.WriteLine("Masukkan Kode Kios :");
                                                     string kd_kios = Console.ReadLine();
                                                     Console.WriteLine("Masukkan Biaya :");
@@ -120,14 +120,14 @@ namespace insert_read
                                                     string NIP = Console.ReadLine();
                                                     try
                                                     {
-                                                        pr.insertkios(kd_kios, biaya, NIP, conn);
+                                                            pr.editkios(kd_kios, biaya, NIP, conn);
 
                                                     }
                                                     catch (Exception e)
                                                     {
-                                                        Console.WriteLine("\n Anda tidak memiliki " +
-                                                            "akses untuk mengubah data");
-                                                        Console.WriteLine(e.ToString());
+                                                    Console.WriteLine("\n Anda tidak memiliki " +
+                                                        "akses untuk mengubah data");
+                                                    Console.WriteLine(e.ToString());
                                                     }
 
                                                 }
@@ -198,7 +198,7 @@ namespace insert_read
                                                     string kd_kios = Console.ReadLine();
                                                     try
                                                     {
-                                                        pr.insertpenyewa(NIK, nmp, no_tlpn, kd_kios, conn);
+                                                        pr.editpenyewa(NIK, nmp, no_tlpn, kd_kios, conn);
 
                                                     }
                                                     catch (Exception e)
